@@ -1,0 +1,10 @@
+﻿# Ignore Power BI files
+Power BI files/
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env

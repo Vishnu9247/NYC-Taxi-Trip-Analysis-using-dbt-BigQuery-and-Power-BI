@@ -1,6 +1,7 @@
 # NYC Taxi Trip Analysis: End-to-End ELT Pipeline with BigQuery, dbt & Power BI
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](BI%20files/NYC%20Yellow%20Taxi%20Trip%20Insights-1.png)
+
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline using **Google BigQuery**, **dbt (data build tool)**, and **Power BI** to analyze New York City yellow taxi trip data. The goal is to clean, model, and visualize data efficiently to uncover useful insights.
